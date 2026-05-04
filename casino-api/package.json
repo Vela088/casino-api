@@ -1,0 +1,19 @@
+
+{
+  "name": "casino-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+<<<<<<< HEAD
+    "express": "^5.2.1"
+    "scripts": {
+  "start": "node index.js"
+}
+=======
+    "express": "^4.18.2"
+>>>>>>> 2a40db7f0cc597670bcd5e24280af601599a516c
+  }
+}
